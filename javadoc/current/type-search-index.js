@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.thriving.oss.java.library.template","l":"JavaLibraryTemplate"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.techrabbit.rabbit_utilities","l":"JavaLibraryTemplate"}];updateSearchResults();
