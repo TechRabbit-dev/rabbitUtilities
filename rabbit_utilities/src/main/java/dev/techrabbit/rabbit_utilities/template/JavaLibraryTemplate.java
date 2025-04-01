@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package dev.techrabbit.rabbit_utilities;
 
 /**
  * Javadoc for {@link JavaLibraryTemplate}

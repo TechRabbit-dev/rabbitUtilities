@@ -1,4 +1,4 @@
-package dev.thriving.oss.java.library.template;
+package dev.techrabbit.rabbit_utilities;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
