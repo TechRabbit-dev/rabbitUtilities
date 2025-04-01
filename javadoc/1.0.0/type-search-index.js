@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.techrabbit.rabbit_utilities","l":"JavaLibraryTemplate"}];updateSearchResults();
