@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"dev.techrabbit.rabbit_utilities","c":"JavaLibraryTemplate","l":"JavaLibraryTemplate()","u":"%3Cinit%3E()"},{"p":"dev.techrabbit.rabbit_utilities","c":"JavaLibraryTemplate","l":"toFunkyCase(String)","u":"toFunkyCase(java.lang.String)"}];updateSearchResults();
